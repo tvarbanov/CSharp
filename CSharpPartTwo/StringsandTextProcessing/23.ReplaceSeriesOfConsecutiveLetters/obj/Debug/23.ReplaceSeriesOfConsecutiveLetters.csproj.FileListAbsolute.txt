@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\23.ReplaceSeriesOfConsecutiveLetters\bin\Debug\23.ReplaceSeriesOfConsecutiveLetters.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\23.ReplaceSeriesOfConsecutiveLetters\bin\Debug\23.ReplaceSeriesOfConsecutiveLetters.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\23.ReplaceSeriesOfConsecutiveLetters\obj\Debug\23.ReplaceSeriesOfConsecutiveLetters.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\23.ReplaceSeriesOfConsecutiveLetters\obj\Debug\23.ReplaceSeriesOfConsecutiveLetters.pdb

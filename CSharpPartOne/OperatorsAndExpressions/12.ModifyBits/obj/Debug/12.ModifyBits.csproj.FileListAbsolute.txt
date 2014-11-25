@@ -1,0 +1,5 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\12.ModifyBits\bin\Debug\12.ModifyBits.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\12.ModifyBits\bin\Debug\12.ModifyBits.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\12.ModifyBits\obj\Debug\12.ModifyBits.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\12.ModifyBits\obj\Debug\12.ModifyBits.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\12.ModifyBits\obj\Debug\12.ModifyBits.csprojResolveAssemblyReference.cache

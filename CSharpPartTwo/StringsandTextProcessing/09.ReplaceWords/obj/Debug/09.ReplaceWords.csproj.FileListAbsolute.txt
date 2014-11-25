@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\09.ReplaceWords\bin\Debug\09.ReplaceWords.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\09.ReplaceWords\bin\Debug\09.ReplaceWords.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\09.ReplaceWords\obj\Debug\09.ReplaceWords.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\09.ReplaceWords\obj\Debug\09.ReplaceWords.pdb

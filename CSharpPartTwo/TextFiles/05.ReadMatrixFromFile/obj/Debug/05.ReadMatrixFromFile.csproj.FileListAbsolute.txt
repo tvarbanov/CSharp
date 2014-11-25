@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\05.ReadMatrixFromFile\bin\Debug\05.ReadMatrixFromFile.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\05.ReadMatrixFromFile\bin\Debug\05.ReadMatrixFromFile.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\05.ReadMatrixFromFile\obj\Debug\05.ReadMatrixFromFile.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\05.ReadMatrixFromFile\obj\Debug\05.ReadMatrixFromFile.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\05.ReadMatrixFromFile\obj\Debug\05.ReadMatrixFromFile.pdb

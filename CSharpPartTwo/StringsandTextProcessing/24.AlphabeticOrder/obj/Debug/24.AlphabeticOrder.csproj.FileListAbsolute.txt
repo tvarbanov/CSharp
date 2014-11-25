@@ -1,0 +1,1 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\24.AlphabeticOrder\bin\Debug\24.AlphabeticOrder.exe.config

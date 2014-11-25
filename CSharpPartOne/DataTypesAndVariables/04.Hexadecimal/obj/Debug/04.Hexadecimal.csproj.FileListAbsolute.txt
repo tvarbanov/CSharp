@@ -1,0 +1,5 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\04.Hexadecimal\bin\Debug\04.Hexadecimal.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\04.Hexadecimal\bin\Debug\04.Hexadecimal.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\04.Hexadecimal\obj\Debug\04.Hexadecimal.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\04.Hexadecimal\obj\Debug\04.Hexadecimal.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\04.Hexadecimal\obj\Debug\04.Hexadecimal.csprojResolveAssemblyReference.cache

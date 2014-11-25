@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\12.RemoveByList\bin\Debug\12.RemoveByList.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\12.RemoveByList\bin\Debug\12.RemoveByList.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\12.RemoveByList\obj\Debug\12.RemoveByList.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\12.RemoveByList\obj\Debug\12.RemoveByList.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\12.RemoveByList\obj\Debug\12.RemoveByList.pdb

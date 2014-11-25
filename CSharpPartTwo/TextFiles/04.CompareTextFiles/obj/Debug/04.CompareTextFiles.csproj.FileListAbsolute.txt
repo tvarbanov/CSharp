@@ -1,0 +1,6 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe.config
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\04.CompareTextFiles\bin\Debug\04.CompareTextFiles.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\04.CompareTextFiles\obj\Debug\04.CompareTextFiles.pdb

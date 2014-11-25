@@ -1,0 +1,5 @@
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\06.IndexOfNumBiggerThanneighbours\bin\Debug\06.IndexOfNumBiggerThanneighbours.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\06.IndexOfNumBiggerThanneighbours\bin\Debug\06.IndexOfNumBiggerThanneighbours.pdb
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\06.IndexOfNumBiggerThanneighbours\obj\Debug\06.IndexOfNumBiggerThanneighbours.csprojResolveAssemblyReference.cache
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\06.IndexOfNumBiggerThanneighbours\obj\Debug\06.IndexOfNumBiggerThanneighbours.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\06.IndexOfNumBiggerThanneighbours\obj\Debug\06.IndexOfNumBiggerThanneighbours.pdb

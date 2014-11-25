@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\13.WordsCount\bin\Debug\13.WordsCount.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\13.WordsCount\bin\Debug\13.WordsCount.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\13.WordsCount\obj\Debug\13.WordsCount.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\13.WordsCount\obj\Debug\13.WordsCount.pdb

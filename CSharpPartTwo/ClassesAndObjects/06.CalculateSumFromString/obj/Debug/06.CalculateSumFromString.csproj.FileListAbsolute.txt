@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\06.CalculateSumFromString\bin\Debug\06.CalculateSumFromString.exe
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\06.CalculateSumFromString\bin\Debug\06.CalculateSumFromString.pdb
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\06.CalculateSumFromString\obj\Debug\06.CalculateSumFromString.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\06.CalculateSumFromString\obj\Debug\06.CalculateSumFromString.exe
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\06.CalculateSumFromString\obj\Debug\06.CalculateSumFromString.pdb

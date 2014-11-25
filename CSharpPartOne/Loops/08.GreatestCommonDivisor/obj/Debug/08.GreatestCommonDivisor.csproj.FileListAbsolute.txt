@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\08.GreatestCommonDivisor\bin\Debug\08.GreatestCommonDivisor.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\08.GreatestCommonDivisor\bin\Debug\08.GreatestCommonDivisor.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\08.GreatestCommonDivisor\obj\Debug\08.GreatestCommonDivisor.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\08.GreatestCommonDivisor\obj\Debug\08.GreatestCommonDivisor.pdb

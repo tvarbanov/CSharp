@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.exe
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\bin\Debug\04.DownloadFile.pdb
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.exe
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\04.DownloadFile\obj\Debug\04.DownloadFile.pdb

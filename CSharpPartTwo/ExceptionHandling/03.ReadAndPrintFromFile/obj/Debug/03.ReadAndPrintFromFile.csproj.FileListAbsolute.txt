@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\03.ReadAndPrintFromFile\bin\Debug\03.ReadAndPrintFromFile.exe
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\03.ReadAndPrintFromFile\bin\Debug\03.ReadAndPrintFromFile.pdb
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\03.ReadAndPrintFromFile\obj\Debug\03.ReadAndPrintFromFile.exe
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\03.ReadAndPrintFromFile\obj\Debug\03.ReadAndPrintFromFile.pdb

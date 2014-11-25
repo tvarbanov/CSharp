@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\22.PrintsAllDifferentWordsInAString\obj\Debug\22.PrintsAllDifferentWordsInAString.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\22.PrintsAllDifferentWordsInAString\bin\Debug\22.PrintsAllDifferentWordsInAString.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\22.PrintsAllDifferentWordsInAString\bin\Debug\22.PrintsAllDifferentWordsInAString.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\22.PrintsAllDifferentWordsInAString\obj\Debug\22.PrintsAllDifferentWordsInAString.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\22.PrintsAllDifferentWordsInAString\obj\Debug\22.PrintsAllDifferentWordsInAString.pdb

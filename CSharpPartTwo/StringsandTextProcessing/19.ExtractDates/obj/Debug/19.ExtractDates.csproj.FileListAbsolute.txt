@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.exe.config
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\19.ExtractDates\bin\Debug\19.ExtractDates.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\19.ExtractDates\obj\Debug\19.ExtractDates.pdb

@@ -1,0 +1,4 @@
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\07.Timer\bin\Debug\07.Timer.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\07.Timer\bin\Debug\07.Timer.pdb
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\07.Timer\obj\Debug\07.Timer.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\07.Timer\obj\Debug\07.Timer.pdb

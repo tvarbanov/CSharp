@@ -1,0 +1,1 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\05.ConditionalStatements\Conditional-Statements\07.GreatestVar\bin\Debug\07.GreatestVar.exe.config

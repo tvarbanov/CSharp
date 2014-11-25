@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2013\Projects\HomeworkOOPPrinciplesPartOne\02 HumanWorker\bin\Debug\02 HumanWorker.exe
+C:\Users\Georgi\documents\visual studio 2013\Projects\HomeworkOOPPrinciplesPartOne\02 HumanWorker\bin\Debug\02 HumanWorker.pdb
+C:\Users\Georgi\documents\visual studio 2013\Projects\HomeworkOOPPrinciplesPartOne\02 HumanWorker\obj\Debug\02 HumanWorker.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2013\Projects\HomeworkOOPPrinciplesPartOne\02 HumanWorker\obj\Debug\02 HumanWorker.exe
+C:\Users\Georgi\documents\visual studio 2013\Projects\HomeworkOOPPrinciplesPartOne\02 HumanWorker\obj\Debug\02 HumanWorker.pdb

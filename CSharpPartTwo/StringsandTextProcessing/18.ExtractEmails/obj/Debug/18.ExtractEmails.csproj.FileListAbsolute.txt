@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\18.ExtractEmails\bin\Debug\18.ExtractEmails.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\18.ExtractEmails\bin\Debug\18.ExtractEmails.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\18.ExtractEmails\obj\Debug\18.ExtractEmails.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\18.ExtractEmails\obj\Debug\18.ExtractEmails.pdb

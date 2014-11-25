@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\11.NumberFormatting\bin\Debug\11.NumberFormatting.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\11.NumberFormatting\bin\Debug\11.NumberFormatting.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\11.NumberFormatting\obj\Debug\11.NumberFormatting.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\11.NumberFormatting\obj\Debug\11.NumberFormatting.pdb

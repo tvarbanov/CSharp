@@ -1,0 +1,5 @@
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\19.Permutations\bin\Debug\19.Permutations.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\19.Permutations\bin\Debug\19.Permutations.pdb
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\19.Permutations\obj\Debug\19.Permutations.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\19.Permutations\obj\Debug\19.Permutations.pdb
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\19.Permutations\obj\Debug\19.Permutations.csprojResolveAssemblyReference.cache

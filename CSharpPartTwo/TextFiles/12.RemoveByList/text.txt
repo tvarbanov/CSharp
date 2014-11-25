@@ -1,0 +1,11 @@
+the
+program
+clear
+words
+listed
+in
+another
+file
+from
+this
+file

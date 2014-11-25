@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\03.ReadAndWriteToTextFile\bin\Debug\03.ReadAndWriteToTextFile.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\03.ReadAndWriteToTextFile\bin\Debug\03.ReadAndWriteToTextFile.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\03.ReadAndWriteToTextFile\obj\Debug\03.ReadAndWriteToTextFile.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\03.ReadAndWriteToTextFile\obj\Debug\03.ReadAndWriteToTextFile.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\03.ReadAndWriteToTextFile\obj\Debug\03.ReadAndWriteToTextFile.pdb

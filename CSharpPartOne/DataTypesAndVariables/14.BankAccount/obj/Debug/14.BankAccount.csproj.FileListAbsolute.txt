@@ -1,0 +1,1 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe.config

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\05.WorkdaysBetweenTwoDates\bin\Debug\05.WorkdaysBetweenTwoDates.exe
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\05.WorkdaysBetweenTwoDates\bin\Debug\05.WorkdaysBetweenTwoDates.pdb
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\05.WorkdaysBetweenTwoDates\obj\Debug\05.WorkdaysBetweenTwoDates.exe
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\05.WorkdaysBetweenTwoDates\obj\Debug\05.WorkdaysBetweenTwoDates.pdb
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\05.WorkdaysBetweenTwoDates\obj\Debug\05.WorkdaysBetweenTwoDates.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\11.DeleteWithPrefixWord\bin\Debug\11.DeleteWithPrefixWord.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\11.DeleteWithPrefixWord\bin\Debug\11.DeleteWithPrefixWord.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\11.DeleteWithPrefixWord\obj\Debug\11.DeleteWithPrefixWord.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\11.DeleteWithPrefixWord\obj\Debug\11.DeleteWithPrefixWord.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\11.DeleteWithPrefixWord\obj\Debug\11.DeleteWithPrefixWord.pdb

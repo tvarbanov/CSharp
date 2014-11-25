@@ -1,0 +1,7 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\05.MaxSeqOfIncElements\bin\Debug\05.MaxSeqOfIncElements.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\05.MaxSeqOfIncElements\bin\Debug\05.MaxSeqOfIncElements.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\05.MaxSeqOfIncElements\obj\Debug\05.MaxSeqOfIncElements.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\05.MaxSeqOfIncElements\obj\Debug\05.MaxSeqOfIncElements.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\05.MaxSeqOfIncElements\obj\Debug\05.MaxSeqOfIncElements.csprojResolveAssemblyReference.cache
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\05.MaxSeqOfIncElements\obj\Debug\05.MaxSeqOfIncElements.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\05.MaxSeqOfIncElements\obj\Debug\05.MaxSeqOfIncElements.pdb

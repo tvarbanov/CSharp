@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\15.ReplaceHREFWithURL\bin\Debug\15.ReplaceHREFWithURL.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\15.ReplaceHREFWithURL\bin\Debug\15.ReplaceHREFWithURL.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\15.ReplaceHREFWithURL\obj\Debug\15.ReplaceHREFWithURL.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\15.ReplaceHREFWithURL\obj\Debug\15.ReplaceHREFWithURL.pdb

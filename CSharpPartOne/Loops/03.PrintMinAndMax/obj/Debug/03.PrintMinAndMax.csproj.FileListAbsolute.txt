@@ -1,0 +1,5 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\03.PrintMinAndMax\bin\Debug\03.PrintMinAndMax.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\03.PrintMinAndMax\bin\Debug\03.PrintMinAndMax.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\03.PrintMinAndMax\obj\Debug\03.PrintMinAndMax.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\03.PrintMinAndMax\obj\Debug\03.PrintMinAndMax.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\03.PrintMinAndMax\obj\Debug\03.PrintMinAndMax.pdb

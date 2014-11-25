@@ -1,0 +1,5 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\08.QuotesAndStrings\bin\Debug\08.QuotesAndStrings.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\08.QuotesAndStrings\bin\Debug\08.QuotesAndStrings.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\08.QuotesAndStrings\obj\Debug\08.QuotesAndStrings.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\08.QuotesAndStrings\obj\Debug\08.QuotesAndStrings.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\08.QuotesAndStrings\obj\Debug\08.QuotesAndStrings.pdb

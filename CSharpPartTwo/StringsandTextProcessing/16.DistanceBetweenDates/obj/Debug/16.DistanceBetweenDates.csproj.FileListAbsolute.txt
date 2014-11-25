@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\16.DistanceBetweenDates\bin\Debug\16.DistanceBetweenDates.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\16.DistanceBetweenDates\bin\Debug\16.DistanceBetweenDates.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\16.DistanceBetweenDates\obj\Debug\16.DistanceBetweenDates.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\16.DistanceBetweenDates\obj\Debug\16.DistanceBetweenDates.pdb

@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\11.PrintCards\bin\Debug\11.PrintCards.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\11.PrintCards\bin\Debug\11.PrintCards.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\11.PrintCards\obj\Debug\11.PrintCards.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\11.PrintCards\obj\Debug\11.PrintCards.pdb

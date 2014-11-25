@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\03.RectangleAreaCalc\bin\Debug\03.RectangleAreaCalc.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\03.RectangleAreaCalc\bin\Debug\03.RectangleAreaCalc.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\03.RectangleAreaCalc\obj\Debug\03.RectangleAreaCalc.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\03.RectangleAreaCalc\obj\Debug\03.RectangleAreaCalc.pdb

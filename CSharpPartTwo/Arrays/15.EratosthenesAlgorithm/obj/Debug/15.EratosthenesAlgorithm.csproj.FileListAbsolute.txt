@@ -1,0 +1,5 @@
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\15.EratosthenesAlgorithm\bin\Debug\15.EratosthenesAlgorithm.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\15.EratosthenesAlgorithm\bin\Debug\15.EratosthenesAlgorithm.pdb
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\15.EratosthenesAlgorithm\obj\Debug\15.EratosthenesAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\15.EratosthenesAlgorithm\obj\Debug\15.EratosthenesAlgorithm.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\15.EratosthenesAlgorithm\obj\Debug\15.EratosthenesAlgorithm.pdb

@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\06.SortStringsFromFile\bin\Debug\06.SortStringsFromFile.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\06.SortStringsFromFile\bin\Debug\06.SortStringsFromFile.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\06.SortStringsFromFile\obj\Debug\06.SortStringsFromFile.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\06.SortStringsFromFile\obj\Debug\06.SortStringsFromFile.pdb

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\09.TeamProject\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+E:\TelerikAcademy\C# 2\09.TeamProject\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+E:\TelerikAcademy\C# 2\09.TeamProject\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\09.TeamProject\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+E:\TelerikAcademy\C# 2\09.TeamProject\BlackJack\BlackJack\obj\Debug\BlackJack.pdb

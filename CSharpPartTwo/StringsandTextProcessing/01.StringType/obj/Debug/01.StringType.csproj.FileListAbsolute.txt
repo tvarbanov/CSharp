@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\01.StringType\bin\Debug\01.StringType.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\01.StringType\bin\Debug\01.StringType.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\01.StringType\obj\Debug\01.StringType.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\01.StringType\obj\Debug\01.StringType.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\01.StringType\obj\Debug\01.StringType.pdb

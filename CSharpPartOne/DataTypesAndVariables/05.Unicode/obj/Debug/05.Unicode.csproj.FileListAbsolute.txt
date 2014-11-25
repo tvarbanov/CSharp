@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\05.Unicode\bin\Debug\05.Unicode.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\05.Unicode\bin\Debug\05.Unicode.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\05.Unicode\obj\Debug\05.Unicode.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\05.Unicode\obj\Debug\05.Unicode.pdb

@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\12.PrintASCII\bin\Debug\12.PrintASCII.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\12.PrintASCII\bin\Debug\12.PrintASCII.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\12.PrintASCII\obj\Debug\12.PrintASCII.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\12.PrintASCII\obj\Debug\12.PrintASCII.pdb

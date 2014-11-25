@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\03.Methods\Methods\03.LastDigitMethod\bin\Debug\03.LastDigitMethod.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\03.LastDigitMethod\bin\Debug\03.LastDigitMethod.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\03.LastDigitMethod\obj\Debug\03.LastDigitMethod.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\03.LastDigitMethod\obj\Debug\03.LastDigitMethod.pdb

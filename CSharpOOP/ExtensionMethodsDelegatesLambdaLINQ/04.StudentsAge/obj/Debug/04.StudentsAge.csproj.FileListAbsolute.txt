@@ -1,0 +1,4 @@
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\04.StudentsAge\bin\Debug\04.StudentsAge.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\04.StudentsAge\bin\Debug\04.StudentsAge.pdb
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\04.StudentsAge\obj\Debug\04.StudentsAge.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\04.StudentsAge\obj\Debug\04.StudentsAge.pdb

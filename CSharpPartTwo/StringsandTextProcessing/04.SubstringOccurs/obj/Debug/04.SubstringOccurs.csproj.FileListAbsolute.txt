@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\04.SubstringOccurs\bin\Debug\04.SubstringOccurs.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\04.SubstringOccurs\bin\Debug\04.SubstringOccurs.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\04.SubstringOccurs\obj\Debug\04.SubstringOccurs.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\04.SubstringOccurs\obj\Debug\04.SubstringOccurs.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\04.SubstringOccurs\obj\Debug\04.SubstringOccurs.csprojResolveAssemblyReference.cache

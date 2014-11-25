@@ -1,0 +1,7 @@
+E:\TelerikAcademy\C# 2\03.Methods\Methods\04.NumberInArray\bin\Debug\04.NumberInArray.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\04.NumberInArray\bin\Debug\04.NumberInArray.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\04.NumberInArray\obj\Debug\04.NumberInArray.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\03.Methods\Methods\04.NumberInArray\obj\Debug\04.NumberInArray.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\04.NumberInArray\obj\Debug\04.NumberInArray.pdb
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\04.NumberInArray\obj\Debug\04.NumberInArray.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\04.NumberInArray\obj\Debug\04.NumberInArray.pdb

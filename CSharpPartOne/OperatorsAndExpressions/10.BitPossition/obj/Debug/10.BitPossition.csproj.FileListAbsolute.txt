@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\10.BitPossition\bin\Debug\10.BitPossition.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\10.BitPossition\bin\Debug\10.BitPossition.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\10.BitPossition\obj\Debug\10.BitPossition.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\10.BitPossition\obj\Debug\10.BitPossition.pdb

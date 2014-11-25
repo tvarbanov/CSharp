@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\14.DictionarySearch\bin\Debug\14.DictionarySearch.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\14.DictionarySearch\bin\Debug\14.DictionarySearch.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\14.DictionarySearch\obj\Debug\14.DictionarySearch.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\14.DictionarySearch\obj\Debug\14.DictionarySearch.pdb

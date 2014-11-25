@@ -1,0 +1,5 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\03.CompareNumbers\bin\Debug\03.CompareNumbers.exe.config
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\03.CompareNumbers\bin\Debug\03.CompareNumbers.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\03.CompareNumbers\bin\Debug\03.CompareNumbers.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\03.CompareNumbers\obj\Debug\03.CompareNumbers.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\02.PrimitiveDataTypesAndVariables\DataTypesAndVariables\03.CompareNumbers\obj\Debug\03.CompareNumbers.pdb

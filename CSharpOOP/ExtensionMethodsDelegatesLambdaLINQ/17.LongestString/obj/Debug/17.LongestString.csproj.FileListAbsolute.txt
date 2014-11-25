@@ -1,0 +1,4 @@
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\17.LongestString\bin\Debug\17.LongestString.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\17.LongestString\bin\Debug\17.LongestString.pdb
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\17.LongestString\obj\Debug\17.LongestString.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\17.LongestString\obj\Debug\17.LongestString.pdb

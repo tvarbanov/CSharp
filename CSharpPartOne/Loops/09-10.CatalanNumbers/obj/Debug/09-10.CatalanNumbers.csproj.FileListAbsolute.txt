@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\09-10.CatalanNumbers\bin\Debug\09-10.CatalanNumbers.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\09-10.CatalanNumbers\bin\Debug\09-10.CatalanNumbers.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\09-10.CatalanNumbers\obj\Debug\09-10.CatalanNumbers.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\09-10.CatalanNumbers\obj\Debug\09-10.CatalanNumbers.pdb

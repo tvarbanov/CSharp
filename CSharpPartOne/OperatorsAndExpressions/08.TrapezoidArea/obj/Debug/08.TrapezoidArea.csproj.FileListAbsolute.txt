@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.pdb

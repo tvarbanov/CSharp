@@ -1,0 +1,5 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\05.CalculatingFactoriels\bin\Debug\05.CalculatingFactoriels.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\05.CalculatingFactoriels\bin\Debug\05.CalculatingFactoriels.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\05.CalculatingFactoriels\obj\Debug\05.CalculatingFactoriels.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\05.CalculatingFactoriels\obj\Debug\05.CalculatingFactoriels.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\06.Loops\Loops\05.CalculatingFactoriels\obj\Debug\05.CalculatingFactoriels.pdb

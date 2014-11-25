@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\25.ExtractFromHtmlTags\bin\Debug\25.ExtractFromHtmlTags.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\25.ExtractFromHtmlTags\bin\Debug\25.ExtractFromHtmlTags.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\25.ExtractFromHtmlTags\obj\Debug\25.ExtractFromHtmlTags.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\25.ExtractFromHtmlTags\obj\Debug\25.ExtractFromHtmlTags.pdb

@@ -1,0 +1,7 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\01.PrintMultipliedArray\bin\Debug\01.PrintMultipliedArray.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\01.PrintMultipliedArray\bin\Debug\01.PrintMultipliedArray.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\01.PrintMultipliedArray\obj\Debug\01.PrintMultipliedArray.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\01.PrintMultipliedArray\obj\Debug\01.PrintMultipliedArray.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\01.PrintMultipliedArray\obj\Debug\01.PrintMultipliedArray.pdb
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\01.PrintMultipliedArray\obj\Debug\01.PrintMultipliedArray.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\01.PrintMultipliedArray\obj\Debug\01.PrintMultipliedArray.pdb

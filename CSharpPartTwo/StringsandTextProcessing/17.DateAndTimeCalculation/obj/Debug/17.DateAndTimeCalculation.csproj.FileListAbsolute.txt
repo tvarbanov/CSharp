@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\17.DateAndTimeCalculation\bin\Debug\17.DateAndTimeCalculation.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\17.DateAndTimeCalculation\bin\Debug\17.DateAndTimeCalculation.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\17.DateAndTimeCalculation\obj\Debug\17.DateAndTimeCalculation.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\17.DateAndTimeCalculation\obj\Debug\17.DateAndTimeCalculation.pdb

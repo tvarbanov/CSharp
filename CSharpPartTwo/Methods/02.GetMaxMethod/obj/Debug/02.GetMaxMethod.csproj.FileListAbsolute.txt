@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\03.Methods\Methods\02.GetMaxMethod\bin\Debug\02.GetMaxMethod.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\02.GetMaxMethod\bin\Debug\02.GetMaxMethod.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\02.GetMaxMethod\obj\Debug\02.GetMaxMethod.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\02.GetMaxMethod\obj\Debug\02.GetMaxMethod.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\02.GetMaxMethod\obj\Debug\02.GetMaxMethod.csprojResolveAssemblyReference.cache

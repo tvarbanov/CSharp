@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\03.Methods\Methods\13.SolveDifferentTasks\bin\Debug\13.SolveDifferentTasks.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\13.SolveDifferentTasks\bin\Debug\13.SolveDifferentTasks.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\13.SolveDifferentTasks\obj\Debug\13.SolveDifferentTasks.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\13.SolveDifferentTasks\obj\Debug\13.SolveDifferentTasks.pdb

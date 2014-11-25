@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\05.UpperCaseBetweenTags\bin\Debug\05.UpperCaseBetweenTags.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\05.UpperCaseBetweenTags\bin\Debug\05.UpperCaseBetweenTags.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\05.UpperCaseBetweenTags\obj\Debug\05.UpperCaseBetweenTags.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\05.UpperCaseBetweenTags\obj\Debug\05.UpperCaseBetweenTags.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\05.UpperCaseBetweenTags\obj\Debug\05.UpperCaseBetweenTags.pdb

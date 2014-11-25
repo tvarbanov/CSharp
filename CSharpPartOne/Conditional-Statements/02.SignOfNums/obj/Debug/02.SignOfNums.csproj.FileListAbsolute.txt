@@ -1,0 +1,6 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\04.ConsoleInputOutput\Conditional-Statements\02.SignOfNums\bin\Debug\02.SignOfNums.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\04.ConsoleInputOutput\Conditional-Statements\02.SignOfNums\bin\Debug\02.SignOfNums.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\04.ConsoleInputOutput\Conditional-Statements\02.SignOfNums\obj\Debug\02.SignOfNums.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\04.ConsoleInputOutput\Conditional-Statements\02.SignOfNums\obj\Debug\02.SignOfNums.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\05.ConditionalStatements\Conditional-Statements\02.SignOfNums\obj\Debug\02.SignOfNums.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\05.ConditionalStatements\Conditional-Statements\02.SignOfNums\obj\Debug\02.SignOfNums.pdb

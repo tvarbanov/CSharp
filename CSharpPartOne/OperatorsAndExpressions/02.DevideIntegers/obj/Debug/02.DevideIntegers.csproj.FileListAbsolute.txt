@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\02.DevideIntegers\bin\Debug\02.DevideIntegers.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\02.DevideIntegers\bin\Debug\02.DevideIntegers.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\02.DevideIntegers\obj\Debug\02.DevideIntegers.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\02.DevideIntegers\obj\Debug\02.DevideIntegers.pdb

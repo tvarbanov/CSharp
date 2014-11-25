@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\20.ExtractsAllPalindromes\bin\Debug\20.ExtractsAllPalindromes.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\20.ExtractsAllPalindromes\bin\Debug\20.ExtractsAllPalindromes.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\20.ExtractsAllPalindromes\obj\Debug\20.ExtractsAllPalindromes.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\20.ExtractsAllPalindromes\obj\Debug\20.ExtractsAllPalindromes.pdb

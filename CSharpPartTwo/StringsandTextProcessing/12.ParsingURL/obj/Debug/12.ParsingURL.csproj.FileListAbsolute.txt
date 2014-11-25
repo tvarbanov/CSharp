@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\12.ParsingURL\bin\Debug\12.ParsingURL.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\12.ParsingURL\bin\Debug\12.ParsingURL.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\12.ParsingURL\obj\Debug\12.ParsingURL.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\12.ParsingURL\obj\Debug\12.ParsingURL.pdb

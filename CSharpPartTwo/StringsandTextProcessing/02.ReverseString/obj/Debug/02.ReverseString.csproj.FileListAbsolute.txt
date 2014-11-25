@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\02.ReverseString\bin\Debug\02.ReverseString.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\02.ReverseString\obj\Debug\02.ReverseString.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\02.ReverseString\obj\Debug\02.ReverseString.pdb

@@ -1,0 +1,6 @@
+C:\Users\Reflexa\Google Диск\Telerik\02.MDArrays\MDArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.exe.config
+C:\Users\Reflexa\Google Диск\Telerik\02.MDArrays\MDArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.exe
+C:\Users\Reflexa\Google Диск\Telerik\02.MDArrays\MDArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.pdb
+C:\Users\Reflexa\Google Диск\Telerik\02.MDArrays\MDArrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Reflexa\Google Диск\Telerik\02.MDArrays\MDArrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.exe
+C:\Users\Reflexa\Google Диск\Telerik\02.MDArrays\MDArrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.pdb

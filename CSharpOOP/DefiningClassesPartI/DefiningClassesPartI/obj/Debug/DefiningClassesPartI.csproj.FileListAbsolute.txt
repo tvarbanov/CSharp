@@ -1,0 +1,5 @@
+E:\TelerikAcademy\OOP\1.DefiningClassesPartI\DefiningClassesPartI\DefiningClassesPartI\bin\Debug\DefiningClassesPartI.exe
+E:\TelerikAcademy\OOP\1.DefiningClassesPartI\DefiningClassesPartI\DefiningClassesPartI\bin\Debug\DefiningClassesPartI.pdb
+E:\TelerikAcademy\OOP\1.DefiningClassesPartI\DefiningClassesPartI\DefiningClassesPartI\obj\Debug\DefiningClassesPartI.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\OOP\1.DefiningClassesPartI\DefiningClassesPartI\DefiningClassesPartI\obj\Debug\DefiningClassesPartI.exe
+E:\TelerikAcademy\OOP\1.DefiningClassesPartI\DefiningClassesPartI\DefiningClassesPartI\obj\Debug\DefiningClassesPartI.pdb

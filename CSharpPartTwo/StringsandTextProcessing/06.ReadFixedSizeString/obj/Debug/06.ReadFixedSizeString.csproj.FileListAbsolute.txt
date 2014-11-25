@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\06.ReadFixedSizeString\bin\Debug\06.ReadFixedSizeString.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\06.ReadFixedSizeString\bin\Debug\06.ReadFixedSizeString.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\06.ReadFixedSizeString\obj\Debug\06.ReadFixedSizeString.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\06.ReadFixedSizeString\obj\Debug\06.ReadFixedSizeString.pdb

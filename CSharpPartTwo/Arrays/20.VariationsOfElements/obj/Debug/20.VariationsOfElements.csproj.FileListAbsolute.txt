@@ -1,0 +1,5 @@
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\20.VariationsOfElements\bin\Debug\20.VariationsOfElements.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\20.VariationsOfElements\bin\Debug\20.VariationsOfElements.pdb
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\20.VariationsOfElements\obj\Debug\20.VariationsOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\20.VariationsOfElements\obj\Debug\20.VariationsOfElements.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\20.VariationsOfElements\obj\Debug\20.VariationsOfElements.pdb

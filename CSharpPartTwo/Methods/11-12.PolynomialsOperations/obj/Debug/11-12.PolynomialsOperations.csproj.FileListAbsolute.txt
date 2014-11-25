@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\03.Methods\Methods\11-12.PolynomialsOperations\bin\Debug\11-12.PolynomialsOperations.exe.config
+E:\TelerikAcademy\C# 2\03.Methods\Methods\11-12.PolynomialsOperations\bin\Debug\11-12.PolynomialsOperations.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\11-12.PolynomialsOperations\bin\Debug\11-12.PolynomialsOperations.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\11-12.PolynomialsOperations\obj\Debug\11-12.PolynomialsOperations.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\11-12.PolynomialsOperations\obj\Debug\11-12.PolynomialsOperations.pdb

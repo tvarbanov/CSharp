@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\03.Methods\Methods\14.CalculationWithNumbers\bin\Debug\14.CalculationWithNumbers.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\14.CalculationWithNumbers\bin\Debug\14.CalculationWithNumbers.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\14.CalculationWithNumbers\obj\Debug\14.CalculationWithNumbers.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\03.Methods\Methods\14.CalculationWithNumbers\obj\Debug\14.CalculationWithNumbers.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\14.CalculationWithNumbers\obj\Debug\14.CalculationWithNumbers.pdb

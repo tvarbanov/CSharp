@@ -1,0 +1,7 @@
+E:\TelerikAcademy\C# 2\03.Methods\Methods\01.HelloMethod\bin\Debug\01.HelloMethod.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\01.HelloMethod\bin\Debug\01.HelloMethod.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\01.HelloMethod\obj\Debug\01.HelloMethod.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\03.Methods\Methods\01.HelloMethod\obj\Debug\01.HelloMethod.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\01.HelloMethod\obj\Debug\01.HelloMethod.pdb
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\01.HelloMethod\obj\Debug\01.HelloMethod.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\01.HelloMethod\obj\Debug\01.HelloMethod.pdb

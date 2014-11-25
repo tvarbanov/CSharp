@@ -1,0 +1,5 @@
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.SortStudents\bin\Debug\05.SortStudents.exe.config
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.SortStudents\bin\Debug\05.SortStudents.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.SortStudents\bin\Debug\05.SortStudents.pdb
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.SortStudents\obj\Debug\05.SortStudents.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\05.SortStudents\obj\Debug\05.SortStudents.pdb

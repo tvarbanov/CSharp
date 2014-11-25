@@ -1,0 +1,4 @@
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\14.QuickSorting\bin\Debug\14.QuickSorting.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\14.QuickSorting\bin\Debug\14.QuickSorting.pdb
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\14.QuickSorting\obj\Debug\14.QuickSorting.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\14.QuickSorting\obj\Debug\14.QuickSorting.pdb

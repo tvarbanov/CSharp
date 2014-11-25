@@ -1,0 +1,10 @@
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\08.ToArrayOfDigits\bin\Debug\08.ToArrayOfDigits.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\08.ToArrayOfDigits\bin\Debug\08.ToArrayOfDigits.pdb
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\08.ToArrayOfDigits\obj\Debug\08.ToArrayOfDigits.csprojResolveAssemblyReference.cache
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\08.ToArrayOfDigits\obj\Debug\08.ToArrayOfDigits.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\08.ToArrayOfDigits\obj\Debug\08.ToArrayOfDigits.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\08.ToArrayOfDigits\obj\Debug\08.ToArrayOfDigits.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\08.ToArrayOfDigits\obj\Debug\08.ToArrayOfDigits.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\08.ToArrayOfDigits\bin\Debug\08.ToArrayOfDigits.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\08.ToArrayOfDigits\bin\Debug\08.ToArrayOfDigits.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\08.ToArrayOfDigits\obj\Debug\08.ToArrayOfDigits.csprojResolveAssemblyReference.cache

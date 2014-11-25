@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\13.ReverseSentence\obj\Debug\13.ReverseSentence.pdb

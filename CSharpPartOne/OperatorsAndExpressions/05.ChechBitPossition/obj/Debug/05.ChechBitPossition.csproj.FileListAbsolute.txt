@@ -1,0 +1,4 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\05.ChechBitPossition\bin\Debug\05.ChechBitPossition.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\05.ChechBitPossition\bin\Debug\05.ChechBitPossition.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\05.ChechBitPossition\obj\Debug\05.ChechBitPossition.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#\03.OperatorsAndExpressions\OperatorsAndExpressions\05.ChechBitPossition\obj\Debug\05.ChechBitPossition.pdb

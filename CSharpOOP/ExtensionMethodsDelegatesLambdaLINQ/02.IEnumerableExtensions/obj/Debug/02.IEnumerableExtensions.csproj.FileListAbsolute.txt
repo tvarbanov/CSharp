@@ -1,0 +1,1 @@
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\02.IEnumerableExtensions\bin\Debug\02.IEnumerableExtensions.exe.config

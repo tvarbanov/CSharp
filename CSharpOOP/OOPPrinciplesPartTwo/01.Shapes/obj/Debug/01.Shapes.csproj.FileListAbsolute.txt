@@ -1,0 +1,5 @@
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\01.Shapes\bin\Debug\01.Shapes.exe
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\01.Shapes\bin\Debug\01.Shapes.pdb
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\01.Shapes\obj\Debug\01.Shapes.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\01.Shapes\obj\Debug\01.Shapes.exe
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\01.Shapes\obj\Debug\01.Shapes.pdb

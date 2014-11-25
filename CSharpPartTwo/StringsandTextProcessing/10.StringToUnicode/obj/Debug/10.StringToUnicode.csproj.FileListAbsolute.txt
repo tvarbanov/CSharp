@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\10.StringToUnicode\bin\Debug\10.StringToUnicode.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\10.StringToUnicode\bin\Debug\10.StringToUnicode.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\10.StringToUnicode\obj\Debug\10.StringToUnicode.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\10.StringToUnicode\obj\Debug\10.StringToUnicode.pdb

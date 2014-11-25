@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\02.ConcatenateTextFiles\bin\Debug\02.ConcatenateTextFiles.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\02.ConcatenateTextFiles\obj\Debug\02.ConcatenateTextFiles.pdb

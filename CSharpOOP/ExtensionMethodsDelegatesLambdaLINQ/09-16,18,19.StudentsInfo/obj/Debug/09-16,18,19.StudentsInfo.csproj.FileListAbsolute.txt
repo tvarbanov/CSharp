@@ -1,0 +1,5 @@
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\09-16,18,19.StudentsInfo\bin\Debug\09-16,18,19.StudentsInfo.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\09-16,18,19.StudentsInfo\bin\Debug\09-16,18,19.StudentsInfo.pdb
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\09-16,18,19.StudentsInfo\obj\Debug\09-16,18,19.StudentsInfo.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\09-16,18,19.StudentsInfo\obj\Debug\09-16,18,19.StudentsInfo.exe
+E:\TelerikAcademy\OOP\3.ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethodsDelegatesLambdaLINQ\09-16,18,19.StudentsInfo\obj\Debug\09-16,18,19.StudentsInfo.pdb

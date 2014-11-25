@@ -1,0 +1,5 @@
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\05.BiggerThanNeighborsMethod\bin\Debug\05.BiggerThanNeighborsMethod.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\05.BiggerThanNeighborsMethod\bin\Debug\05.BiggerThanNeighborsMethod.pdb
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\05.BiggerThanNeighborsMethod\obj\Debug\05.BiggerThanNeighborsMethod.csprojResolveAssemblyReference.cache
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\05.BiggerThanNeighborsMethod\obj\Debug\05.BiggerThanNeighborsMethod.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\05.BiggerThanNeighborsMethod\obj\Debug\05.BiggerThanNeighborsMethod.pdb

@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\bin\Debug\02.PrintRandomNumbers.exe
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\bin\Debug\02.PrintRandomNumbers.pdb
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\obj\Debug\02.PrintRandomNumbers.exe
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\02.PrintRandomNumbers\obj\Debug\02.PrintRandomNumbers.pdb

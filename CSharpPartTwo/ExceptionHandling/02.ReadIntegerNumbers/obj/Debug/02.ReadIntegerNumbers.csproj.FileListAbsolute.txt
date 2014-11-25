@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\02.ReadIntegerNumbers\bin\Debug\02.ReadIntegerNumbers.exe
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\02.ReadIntegerNumbers\bin\Debug\02.ReadIntegerNumbers.pdb
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\02.ReadIntegerNumbers\obj\Debug\02.ReadIntegerNumbers.exe
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\02.ReadIntegerNumbers\obj\Debug\02.ReadIntegerNumbers.pdb

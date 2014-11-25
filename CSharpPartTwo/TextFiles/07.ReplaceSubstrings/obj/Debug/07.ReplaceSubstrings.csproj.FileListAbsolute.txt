@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\07.ReplaceSubstrings\bin\Debug\07.ReplaceSubstrings.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\07.ReplaceSubstrings\bin\Debug\07.ReplaceSubstrings.pdb
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\07.ReplaceSubstrings\obj\Debug\07.ReplaceSubstrings.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\07.ReplaceSubstrings\obj\Debug\07.ReplaceSubstrings.exe
+E:\TelerikAcademy\C# 2\06.TextFiles\TextFiles\07.ReplaceSubstrings\obj\Debug\07.ReplaceSubstrings.pdb

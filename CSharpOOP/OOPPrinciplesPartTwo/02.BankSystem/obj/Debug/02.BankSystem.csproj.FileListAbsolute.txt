@@ -1,0 +1,4 @@
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\02.BankSystem\bin\Debug\02.BankSystem.exe
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\02.BankSystem\bin\Debug\02.BankSystem.pdb
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\02.BankSystem\obj\Debug\02.BankSystem.exe
+E:\TelerikAcademy\OOP\5.ObjectOrientedProgrammingPrinciplesPartII\OOPPrinciplesPartTwo\02.BankSystem\obj\Debug\02.BankSystem.pdb

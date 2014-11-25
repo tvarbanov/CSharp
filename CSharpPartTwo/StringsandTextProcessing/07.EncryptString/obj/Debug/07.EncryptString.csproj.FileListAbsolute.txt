@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\07.EncryptString\bin\Debug\07.EncryptString.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\07.EncryptString\bin\Debug\07.EncryptString.pdb
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\07.EncryptString\obj\Debug\07.EncryptString.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\07.EncryptString\obj\Debug\07.EncryptString.exe
+E:\TelerikAcademy\C# 2\08.StringsandTextProcessing\StringsandTextProcessing\07.EncryptString\obj\Debug\07.EncryptString.pdb

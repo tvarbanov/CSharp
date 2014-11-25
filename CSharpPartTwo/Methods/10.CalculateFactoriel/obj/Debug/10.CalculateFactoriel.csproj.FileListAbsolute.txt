@@ -1,0 +1,10 @@
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\10.CalculateFactoriel\bin\Debug\10.CalculateFactoriel.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\10.CalculateFactoriel\bin\Debug\10.CalculateFactoriel.pdb
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.csprojResolveAssemblyReference.cache
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.exe
+D:\Programming\TelerikAcademy\C#2\03.Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\10.CalculateFactoriel\bin\Debug\10.CalculateFactoriel.exe
+E:\TelerikAcademy\C# 2\03.Methods\Methods\10.CalculateFactoriel\bin\Debug\10.CalculateFactoriel.pdb
+E:\TelerikAcademy\C# 2\03.Methods\Methods\10.CalculateFactoriel\obj\Debug\10.CalculateFactoriel.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\01.CheckIntegerForExceptions\bin\Debug\01.CheckIntegerForExceptions.exe
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\01.CheckIntegerForExceptions\bin\Debug\01.CheckIntegerForExceptions.pdb
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\01.CheckIntegerForExceptions\obj\Debug\01.CheckIntegerForExceptions.csprojResolveAssemblyReference.cache
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\01.CheckIntegerForExceptions\obj\Debug\01.CheckIntegerForExceptions.exe
+E:\TelerikAcademy\C# 2\07.ExceptionHandling\ExceptionHandling\01.CheckIntegerForExceptions\obj\Debug\01.CheckIntegerForExceptions.pdb

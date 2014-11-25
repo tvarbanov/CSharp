@@ -1,0 +1,4 @@
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.exe
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\03.DayOfTheWeek\bin\Debug\03.DayOfTheWeek.pdb
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.exe
+E:\TelerikAcademy\C# 2\05.ClassesAndObjects\ClassesAndObjects\03.DayOfTheWeek\obj\Debug\03.DayOfTheWeek.pdb

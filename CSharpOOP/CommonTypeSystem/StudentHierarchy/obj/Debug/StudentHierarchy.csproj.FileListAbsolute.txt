@@ -1,0 +1,5 @@
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Homework Common .NET Types\StudentHierarchy\bin\Debug\StudentHierarchy.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Homework Common .NET Types\StudentHierarchy\bin\Debug\StudentHierarchy.pdb
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Homework Common .NET Types\StudentHierarchy\obj\Debug\StudentHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Homework Common .NET Types\StudentHierarchy\obj\Debug\StudentHierarchy.exe
+C:\Users\Georgi\Documents\Visual Studio 2013\Projects\Homework Common .NET Types\StudentHierarchy\obj\Debug\StudentHierarchy.pdb

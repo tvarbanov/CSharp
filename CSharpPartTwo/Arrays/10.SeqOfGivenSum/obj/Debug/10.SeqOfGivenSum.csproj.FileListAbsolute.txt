@@ -1,0 +1,6 @@
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\10.SeqOfGivenSum\bin\Debug\10.SeqOfGivenSum.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\10.SeqOfGivenSum\bin\Debug\10.SeqOfGivenSum.pdb
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\10.SeqOfGivenSum\obj\Debug\10.SeqOfGivenSum.exe
+C:\Users\Teodor\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\10.SeqOfGivenSum\obj\Debug\10.SeqOfGivenSum.pdb
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\10.SeqOfGivenSum\obj\Debug\10.SeqOfGivenSum.exe
+C:\Users\Reflexa\Google Диск\TelerikAcademy\C#2\01.Arrays\Arrays\10.SeqOfGivenSum\obj\Debug\10.SeqOfGivenSum.pdb
