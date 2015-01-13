@@ -1,9 +1,0 @@
-E:\TelerikAcademy\OOP\7.ParticleSystem\Teleric-Academy-Particle-System\ParticleSystem\ParticleSystem\bin\Debug\ParticleSystem.exe.config
-E:\TelerikAcademy\OOP\7.ParticleSystem\Teleric-Academy-Particle-System\ParticleSystem\ParticleSystem\bin\Debug\ParticleSystem.exe
-E:\TelerikAcademy\OOP\7.ParticleSystem\Teleric-Academy-Particle-System\ParticleSystem\ParticleSystem\bin\Debug\ParticleSystem.pdb
-E:\TelerikAcademy\OOP\7.ParticleSystem\Teleric-Academy-Particle-System\ParticleSystem\ParticleSystem\obj\Debug\ParticleSystem.csprojResolveAssemblyReference.cache
-E:\TelerikAcademy\OOP\7.ParticleSystem\Teleric-Academy-Particle-System\ParticleSystem\ParticleSystem\obj\Debug\ParticleSystem.exe
-E:\TelerikAcademy\OOP\7.ParticleSystem\Teleric-Academy-Particle-System\ParticleSystem\ParticleSystem\obj\Debug\ParticleSystem.pdb
-E:\TelerikAcademy\OOP\7.ParticleSystem\ParticleSystem\ParticleSystem\bin\Debug\ParticleSystem.exe.config
-E:\TelerikAcademy\OOP\7.ParticleSystem\ParticleSystem\ParticleSystem\obj\Debug\ParticleSystem.exe
-E:\TelerikAcademy\OOP\7.ParticleSystem\ParticleSystem\ParticleSystem\obj\Debug\ParticleSystem.pdb
